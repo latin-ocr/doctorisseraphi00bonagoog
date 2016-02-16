@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisseraphi00bonagoog/doctorisseraphi00bonagoog_0278.png"; bbox 0 0 5908 8266; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1375 3033 1995 3144">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1375 2989 1995 3144">
+     <span class='ocr_line' id='line_1_1' title="bbox 1375 3033 1995 3144; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1375 3059 1683 3144; x_wconf 74' lang='lat' dir='ltr'>SERAPHIOI</span> <span class='ocrx_word' id='word_1_2' title='bbox 1712 3033 1995 3144; x_wconf 78' lang='lat' dir='ltr'>DOOTORIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1105 3313 2263 3506">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1105 3313 2265 3506">
+     <span class='ocr_line' id='line_1_2' title="bbox 1105 3313 2263 3506; baseline -0.005 0"><span class='ocrx_word' id='word_1_3' title='bbox 1105 3317 1442 3506; x_wconf 65' lang='lat' dir='ltr'><strong>SANCTI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1505 3313 2263 3506; x_wconf 57' lang='lat' dir='ltr'><strong>BONAVENTURH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1190 3673 2188 4082">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1190 3673 2188 4082">
+     <span class='ocr_line' id='line_1_3' title="bbox 1474 3673 1981 3774; baseline 0.01 -4"><span class='ocrx_word' id='word_1_5' title='bbox 1474 3673 1905 3774; x_wconf 76' lang='lat' dir='ltr'><strong>COMMENTARIUS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1980 3709 1981 3712; x_wconf 61' lang='lat'>‘</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1190 3941 2188 4082; baseline -0.002 -4"><span class='ocrx_word' id='word_1_7' title='bbox 1190 3941 2188 4082; x_wconf 69' lang='lat' dir='ltr'><strong>[NEVANGEMUMS.10ANNIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2958 8260">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2958 8260">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2958 8260; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2958 8260; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
